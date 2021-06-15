@@ -20,7 +20,8 @@ Tesseract-OCRを使用しているため、https://github.com/tesseract-ocr/tess
 
 ## 概要
 これはMHRiseのお守り画像認識コードのREADMEです  
-出力はMHRise スキルシミュ(泣)(https://mhrise.wiki-db.com/sim/)に合わせてあります  
+出力はMHRise スキルシミュ(泣)(https://mhrise.wiki-db.com/sim/
+)に合わせてあります  
 <br />
 <br />
 
