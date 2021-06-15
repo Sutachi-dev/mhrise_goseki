@@ -52,8 +52,8 @@ cudnn:7.6.5
 cudatoolkit:10.1.243  
 tensorflow:2.3.0  
 Tesseract-OCRv5.0.0-alpha.20210506  
-	japanese  
-	english  
+- japanese  
+- english  
 <br />
 <br />
 
