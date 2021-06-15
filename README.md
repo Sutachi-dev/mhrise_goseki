@@ -59,7 +59,7 @@ Tesseract-OCRv5.0.0-alpha.20210506
 
 ## 使い方
 1. Tesseract-OCRインストールしてpath通し  
-2. "mhrise.yml"もしくは自力で環境構築  
+2. "pip install -r requirements.txt"もしくは"conda env create -n mhrise -f mhrise.yml"もしくは自力で環境構築  
 3. "main.ipynb"を全セル実行  
 4. 入力画像、入力動画を選択(フォルダは不可能、複数ファイル可能)  
 5. "result.csv"に結果が保存される  
