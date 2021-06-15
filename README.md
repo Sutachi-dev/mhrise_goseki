@@ -74,3 +74,5 @@ all_skill.xlsx:全スキルが乗っているファイル(この中にないス�
 mhrise.yml:実行環境  
 README.md:このファイル  
 
+## 備考
+Tesseract-OCRは、"C:\Program Files\Tesseract-OCR\tesseract.exe"のように配置すること
