@@ -85,6 +85,7 @@ main.ipynb:これだけ実行すればできるファイル
 all_skill.xlsx:全スキルが乗っているファイル(この中にないスキルは判別失敗になる)  
 mhrise.yml:実行環境  
 README.md:このファイル  
+requirements.txt:必須パッケージのリスト
 
 ## 備考
 Tesseract-OCRは、"C:\Program Files\Tesseract-OCR\tesseract.exe"のように配置すること  
