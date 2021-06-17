@@ -45,7 +45,7 @@ Tesseract-OCRを使用しているため、https://github.com/tesseract-ocr/tess
 例2)弱点特効,2,攻撃,2,0,0,0  
 例)"./data/result.csv"  
 
-excelで開いた場合
+excelで開いた場合  
 ![result csv - Excel 2021_06_18 1_50_59](https://user-images.githubusercontent.com/52289901/122441610-a9960980-cfd8-11eb-94c8-54bc885ece2b.png)
 
 メモ帳で開いた場合  
