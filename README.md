@@ -29,7 +29,13 @@ Tesseract-OCRを使用しているため、https://github.com/tesseract-ocr/tess
 解像度:1920*1080  
 拡張子:jpg or mp4  
 例1)"./data/test/1.jpg"  
+
+![1](https://user-images.githubusercontent.com/52289901/122439107-502cdb00-cfd6-11eb-8871-03f68f1d3407.jpg)
+
 例2)"./data/test/50.mp4"  
+![50_Trim_2](https://user-images.githubusercontent.com/52289901/122443526-a734af00-cfda-11eb-9402-535279d8d230.gif)
+
+
 <br />
 <br />
 
@@ -38,6 +44,12 @@ Tesseract-OCRを使用しているため、https://github.com/tesseract-ocr/tess
 例1)業物,2,,0,1,1,1  
 例2)弱点特効,2,攻撃,2,0,0,0  
 例)"./data/result.csv"  
+
+excelで開いた場合
+![result csv - Excel 2021_06_18 1_50_59](https://user-images.githubusercontent.com/52289901/122441610-a9960980-cfd8-11eb-94c8-54bc885ece2b.png)
+
+メモ帳で開いた場合  
+![result csv - メモ帳 2021_06_18 1_56_57](https://user-images.githubusercontent.com/52289901/122441649-b4509e80-cfd8-11eb-8eb5-be8394ea97da.png)
 <br />
 <br />
 
@@ -75,4 +87,9 @@ mhrise.yml:実行環境
 README.md:このファイル  
 
 ## 備考
-Tesseract-OCRは、"C:\Program Files\Tesseract-OCR\tesseract.exe"のように配置すること
+Tesseract-OCRは、"C:\Program Files\Tesseract-OCR\tesseract.exe"のように配置すること  
+今後のアップデート予定
+- path入力ではなくimage入力にすることで高速化
+- フルHD以外への対応
+- 手撮り等のゲームキャプチャ以外の入力への対応
+- webアプリ化
