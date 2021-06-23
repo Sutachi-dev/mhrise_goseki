@@ -90,6 +90,5 @@ requirements.txt:必須パッケージのリスト
 ## 備考
 Tesseract-OCRは、"C:\Program Files\Tesseract-OCR\tesseract.exe"のように配置すること  
 今後のアップデート予定
-- path入力ではなくimage入力にすることで高速化
 - 手撮り等のゲームキャプチャ以外の入力への対応
 - webアプリ化
